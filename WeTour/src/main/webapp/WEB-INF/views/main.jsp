@@ -11,6 +11,9 @@
 <body>
  <c:import url="./header.jsp"/>
 여기는 메인
+<a href="companyform">
+<button>1</button>
+</a>
  <c:import url="./footer.jsp"/>
 </body>
 </html>
